@@ -13,4 +13,16 @@ Probleme LeetCode rezolvate in C - ASEM
 | ------- |
 | [0035-search-insert-position](https://github.com/vladislav-tiron/SDA-ASEM/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/vladislav-tiron/SDA-ASEM/tree/master/0704-binary-search) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vladislav-tiron/SDA-ASEM/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vladislav-tiron/SDA-ASEM/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vladislav-tiron/SDA-ASEM/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
